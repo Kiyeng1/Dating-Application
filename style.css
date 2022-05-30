@@ -2,6 +2,7 @@ body{
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
+    align-items: center;
 
 }
 
@@ -20,7 +21,6 @@ label{
 
 h1{
     text-align: center;
-    color: red;
 }
 
 .button{
